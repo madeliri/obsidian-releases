@@ -13606,5 +13606,12 @@
         "author": "Moritz Jung",
         "description": "A blazingly fast fuzzy finder with file preview.",
         "repo": "mProjectsCode/obsidian-lemons-search-plugin"
+   },
+    {
+        "id": "rebind-arrows",
+        "name": "Rebind Arrows",
+        "author": "madeliri",
+        "description": "Mini-Plugin for remaping arrow keys to `Ctrl+J` and `Ctrl+K` for select elements.",
+        "repo": "madeliri/obsidian-rebind-arrows"
 	}
 ]
